@@ -30,3 +30,16 @@ footer{
     justify-content: center;
     margin-top: 40px;
 }
+.projects-list-wrapper {
+    display: inline-block;
+}
+
+.projects-list-wrapper ul {
+    text-align: left;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
